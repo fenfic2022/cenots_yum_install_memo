@@ -1,0 +1,1 @@
+# cenots_yum_install_memo
